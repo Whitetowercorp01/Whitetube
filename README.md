@@ -1,10 +1,10 @@
-﻿# ⚪ WhiteTube
+﻿#  WhiteTube
 
 **WhiteTube** es una aplicación en Python creada para descargar canciones y playlists completas de YouTube directamente a tu computadora en formato **MP3 de alta fidelidad (hasta 320 kbps)**, incluyendo metadatos (artista, título) y carátula del video integrada automáticamente.
 
 ---
 
-## 🚀 Inicio Rápido en Windows
+##  Inicio Rápido en Windows
 
 Tienes dos opciones muy sencillas para abrir WhiteTube:
 
@@ -33,7 +33,7 @@ py whitetube.py "https://www.youtube.com/watch?v=fJ9rUzIMcZQ" --quality 320
 
 ---
 
-## ✨ Características Principales
+##  Características Principales
 
 1. **Búsqueda Directa o Enlaces**:
    - Puedes pegar cualquier enlace de YouTube estándar (`youtube.com`), enlace corto (`youtu.be`), YouTube Music (`music.youtube.com`) o YouTube Shorts.
@@ -54,7 +54,7 @@ py whitetube.py "https://www.youtube.com/watch?v=fJ9rUzIMcZQ" --quality 320
 
 ---
 
-## 📦 Estructura del Proyecto
+##  Estructura del Proyecto
 
 - `whitetube.py`: Punto de entrada principal del programa.
 - `gui.py`: Interfaz gráfica con diseño limpio ("WhiteTube") creada con Tkinter/ttk.
@@ -66,7 +66,7 @@ py whitetube.py "https://www.youtube.com/watch?v=fJ9rUzIMcZQ" --quality 320
 
 ---
 
-## 🛠️ Instalación Manual de Dependencias
+##  Instalación Manual de Dependencias
 
 Si necesitas reinstalar dependencias en cualquier momento:
 
